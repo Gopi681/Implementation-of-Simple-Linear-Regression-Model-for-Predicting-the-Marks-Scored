@@ -21,8 +21,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: RAJESHWAR S
-RegisterNumber:  212220220033
+Developed by: GOPI KRISHNA.V.B
+RegisterNumber:  212220220014
 */
 ```
 ```
